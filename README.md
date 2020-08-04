@@ -1,6 +1,6 @@
 ### Hi there, I'm Naimul
 
-## I'm a Student and a Developer
+## I'm a Student, a Developer
 - 🌴 I'm currenly learning everything!😊
 - 📚 I'm looking to working on challenging projects 
 - ⚡ Fun fact: I love to sleep and code 💻
@@ -30,7 +30,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 ---
-![Naimuls's github stats](https://github-readme-stats.vercel.app/api?username=naimulh247&count_private=true&show_icons=true)
+[![Naimuls's github stats](https://github-readme-stats.vercel.app/api?username=naimulh247&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimulh247&layout=compact)](https://github.com/naimulh247/github-readme-stats)
 

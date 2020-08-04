@@ -5,8 +5,6 @@
 - 📚 I'm looking to working on challenging projects 
 - ⚡ Fun fact: I love to sleep and code 💻
 
-
-
 <br/>
 
 ### Languages:
@@ -37,7 +35,7 @@
 
 ---
 
-[![Naimuls's github stats](https://github-readme-stats.vercel.app/api?username=naimulh247&count_private=true&show_icons=true)]
+![Naimuls's github stats](https://github-readme-stats.vercel.app/api?username=naimulh247&count_private=true&show_icons=true)
 
 
 

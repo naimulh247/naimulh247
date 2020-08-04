@@ -12,6 +12,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+---
 
 ### Languages and Tools:
 
@@ -28,11 +29,11 @@
 
 <br/>
 <br/>
-[linkedin]:https://linkedin.com/in/naimul-hasan
+
+<img align="left" alt="Naimul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naimulh247&show_icons=true&hide_border=true" />
+
+[linkedin]: https://linkedin.com/in/naimul-hasan
 [instagram]:https://instagram.com/naimulh247
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naimulh247&show_icons=true&hide_border=true" />
-
 
 
 

@@ -4,6 +4,7 @@
 - 🌴 I'm currenly learning everything!😊
 - 📚 I'm looking to working on challenging projects 
 - ⚡ Fun fact: I love to sleep and code 💻
+- ✍️ Currently Project(s): Todo React app with Java Backend
 
 <br/>
 

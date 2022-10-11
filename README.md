@@ -4,7 +4,7 @@
 - 🌴 I'm currenly learning everything!😊
 - 📚 I'm looking to working on challenging projects 
 - ⚡ Fun fact: I love to sleep and code 💻
-- ✍️ Current Project(s): N/A
+- ✍️ Current Project(s): Load balancer w/ [Bishal Baral](https://github.com/bishal-baral/)
 
 <br/>
 

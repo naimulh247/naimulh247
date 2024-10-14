@@ -2,7 +2,7 @@
 
 ## I'm a Student and a Developer
 - 🌴 I'm currenly learning everything!😊
-- 📚 I'm look foward to working on challenging projects
+- 📚 I look foward to working on challenging projects
 - ⚡ Fun fact: I love to sleep and code 💻
 - ✍️ Current Project(s): Working on something...
 

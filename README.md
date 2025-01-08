@@ -32,12 +32,7 @@
 
 ### Connect with me:
 
-
-[<img align="left" alt="naimulh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>
+[Linkedin](https://linkedin.com/in/naimul-hasan)
 
 ---
 
-![Naimuls's github stats](https://github-readme-stats.vercel.app/api?username=naimulh247&count_private=true&show_icons=true)
-
-[linkedin]: https://linkedin.com/in/naimul-hasan

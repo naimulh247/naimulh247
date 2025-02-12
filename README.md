@@ -4,7 +4,7 @@
 - 🌴 I'm currenly learning everything!😊
 - 📚 I look foward to working on challenging projects
 - ⚡ Fun fact: I love to sleep and code 💻
-- ✍️ Current Project(s): Working on something...
+- ✍️ Current Project(s): [ChronoBase](https://github.com/naimulh247/ChronoBase)...
 
 <br/>
 

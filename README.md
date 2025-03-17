@@ -4,7 +4,7 @@
 - 🌴 I'm currently learning everything!😊
 - 📚 I look forward to working on challenging projects
 - ⚡ Fun fact: I love to sleep and code 💻
-- ✍️ Current Project(s): [LightWatch](https://github.com/naimulh247/lightwatch) 🚦 🏗️
+- ✍️ Current Project(s): [LightWatch](https://github.com/archiix/lightwatch) 🚦 🏗️
 
 <br/>
 

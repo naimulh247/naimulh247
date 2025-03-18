@@ -1,6 +1,6 @@
 ### Hi there, I'm Naimul
 
-## I'm a Student and a Developer
+## I'm a Software Developer
 - 🌴 I'm currently learning everything!😊
 - 📚 I look forward to working on challenging projects
 - ⚡ Fun fact: I love to sleep and code 💻
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimulh247&layout=compact&hide=css,html)](https://github.com/naimulh247/github-readme-stats)
+[![Top Langs]([https://github-readme-stats-eight-phi-33.vercel.app/api/top-langs/?username=naimulh247&layout=compact&hide=css,html](https://github-readme-stats-eight-phi-33.vercel.app/api/top-langs/?username=naimulh247&layout=compact&hide=css,html,php,tsql,jupyter%20notebook))](https://github.com/naimulh247/github-readme-stats)
 
 <br/>
 

@@ -29,10 +29,3 @@
 [![Top Langs](https://github-readme-stats-eight-phi-33.vercel.app/api/top-langs/?username=naimulh247&layout=compact&hide=css,html,php,tsql,jupyter%20notebook&langs_count=4)](https://github.com/naimulh247/github-readme-stats)
 
 <br/>
-
-### Connect with me:
-
-[Linkedin](https://linkedin.com/in/naimul-hasan)
-
----
-
